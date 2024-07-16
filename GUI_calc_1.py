@@ -16,7 +16,7 @@ Grid.columnconfigure(tj, 2, weight=1)
 Grid.columnconfigure(tj, 3, weight=1)
 Grid.columnconfigure(tj, 4, weight=1)
 
-w = tk.Label(tj, text="", bg="cyan", font=("Arial", 30,))
+w = tk.Label(tj, text="", font=("Arial", 30,))
 w.grid(row=1, column=1, columnspan=4, sticky="nsew")
 
 
