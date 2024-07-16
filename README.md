@@ -1,2 +1,2 @@
-# python
-python porjects
+i dont know
+i just got here
